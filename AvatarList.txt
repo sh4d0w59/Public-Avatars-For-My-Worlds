@@ -1,3 +1,3 @@
-avtr_2aa4f057-332a-405a-ae91-a4fecb8d10fe:Caliban Orfeo 
-avtr_725f6114-fb1a-4b81-a3cc-39051fd66792:Excalibur Prime 
-avtr_866b6d35-b47b-4c64-b9e1-ccd021791697:Valkyr Gersemi 
+avtr_2aa4f057-332a-405a-ae91-a4fecb8d10fe:Caliban_Orfeo
+avtr_725f6114-fb1a-4b81-a3cc-39051fd66792:Excalibur_Prime
+avtr_866b6d35-b47b-4c64-b9e1-ccd021791697:Valkyr_Gersemi
