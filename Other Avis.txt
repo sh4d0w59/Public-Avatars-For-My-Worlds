@@ -1,0 +1,7 @@
+avtr_80b1b733-468a-4eb0-83fa-d59520b6e9d4:Wolf of Saturn Six
+avtr_069c5872-c858-456c-a94f-59977eb01089:Scaldra Jaeger
+avtr_0195cfd5-79f1-439d-9fa0-e4108982f49e:Nekros Graxx
+avtr_20601c70-0d5c-4f0e-b103-62d0b61fbe8b:Excalibur Corpra
+avtr_212028f8-0c23-4f1d-8858-3ad9d9088ab5:Uriel WIP
+avtr_1c1a4f0e-c10d-4a2d-8e71-16ef294a69b5:Doom Slayer
+avtr_fad039e6-e38f-42e3-aa19-969a8ba7d28b:Type 05
