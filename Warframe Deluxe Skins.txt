@@ -7,3 +7,5 @@ avtr_172d4589-122a-4377-8902-207de566aa16:Grendel Turbis
 avtr_f135885f-240e-4a60-a62a-ce900b49448f:Nidus Phryke
 avtr_ff0eb4af-06f1-470e-8e26-4e4153ddc74a:Chroma Zunlong
 avtr_a8ac034e-4550-4026-b4f4-430aa753158b:Rhino Palatine
+avtr_42dfb260-05b0-450f-b8a7-838bd3e0c87a:Nyx Nemesis
+avtr_62775c5e-29e3-473c-8c9b-8693cc867bdf:Excalibur Proto
