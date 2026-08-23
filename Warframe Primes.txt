@@ -1,0 +1,22 @@
+avtr_725f6114-fb1a-4b81-a3cc-39051fd66792:Excalibur Prime Customizeable
+avtr_91cd7981-3cad-416b-97b3-9d1375988d96:Excalibur Prime
+avtr_f6e16d7a-0347-49bb-a50a-8bb2cf057f83:Voruna Prime
+avtr_7214dbf6-a417-4c30-a9b1-e84bc0da84f4:Ember Prime
+avtr_1b804654-3ab2-4dae-bdd5-1a1d971c48c0:Chroma Prime
+avtr_a53f587a-6ea6-467c-985b-4c51165a222f:Limbo Prime
+avtr_038ee6b4-d996-499d-a5c7-1da1d0bf1f7a:Frost Prime
+avtr_b6114b73-fcb2-4b13-8abf-d5efd0b4b455:Saryn Prime
+avtr_5cc848c7-88f8-4d6e-9c08-f2839a363326:Rhino Prime
+avtr_ac071fa0-d39c-4579-89e7-2bba93c8ce6b:Mag Prime
+avtr_92475b7a-0ab0-4c69-8386-8a974a3f2f12:Trinity Prime
+avtr_995f6bb1-5403-4b1b-a6e1-123712793c97:Loki Prime
+avtr_ecbaac9c-612a-4ef6-9e15-9216fd2a969b:Ash Prime
+avtr_ecb0e1ba-9c4d-48ab-89eb-412652d019ab:Oberon Prime
+avtr_e1377aa1-11b2-48b8-b9f3-36541e82c967:Nekros Prime
+avtr_54b40517-fce3-4d62-b43b-9b9554d9e65a:Nyx Prime
+avtr_f1daf30b-6a66-4d50-8734-350cf1b7873c:Volt Prime
+avtr_351630df-59bc-4be6-a282-94b50325228c:Nova Prime
+avtr_0e155a38-b09d-4c37-979d-55abc0daea5e:Valkyr Prime
+avtr_cea0c903-22d1-4d20-8e76-933de099c1ea:Mesa Prime
+avtr_b41cc4c3-4d04-4c5a-a8cb-dcdf32090b6d:Vauban Prime
+avtr_893ac1c7-9d21-408a-b863-db1cb06a2651:Zephys Prime
