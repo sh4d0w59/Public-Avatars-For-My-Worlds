@@ -7,7 +7,7 @@ avtr_f135885f-240e-4a60-a62a-ce900b49448f:Nidus Phryke
 avtr_42dfb260-05b0-450f-b8a7-838bd3e0c87a:Nyx Nemesis
 avtr_a8ac034e-4550-4026-b4f4-430aa753158b:Rhino Palatine
 avtr_bf608df9-cfa2-4ba4-9af9-d7f60fe84496:Styanax Tonatiuh
-avtr_8256a43b-c5fe-4473-b396-969888a72863:Styanax Tonatiuh Customizable
+avtr_8256a43b-c5fe-4473-b396-969888a72863:Styanax Tonatiuh (Colorable!)
 avtr_866b6d35-b47b-4c64-b9e1-ccd021791697:Valkyr Gersemi
 avtr_23ac44bc-9b98-4d99-8075-561d0c800d0d:Vauban Heirloom
 avtr_6af93505-e01f-4486-900e-e76e30a1954a:Rhino Heirloom
